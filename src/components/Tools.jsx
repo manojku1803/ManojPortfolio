@@ -8,6 +8,12 @@ import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Bootstrap from '../assets/bootstrap.png';
 import Vercel from '../assets/vercel.png';
+import TypeScript from '../assets/pngwing.com (1).png'
+import Java from '../assets/pngwing.com.png'
+import Python from '../assets/pngwing.com (2).png'
+import Nodejs from '../assets/nodejs-logo.png'
+import Postgresql from '../assets/postgresql-inc-logo.png'
+
 
 
 const Tools = () => {
@@ -31,6 +37,18 @@ const Tools = () => {
               <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
                   <img className='w-[60px] mx-auto' src={JavaScript} alt="HTML icon" />
                   <p className='my-4'>JAVASCRIPT</p>
+              </div>
+              <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
+                  <img className='w-[60px] mx-auto' src={Typescript} alt="HTML icon" />
+                  <p className='my-4'>TYPESCRIPT</p>
+              </div>
+              <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
+                  <img className='w-[60px] mx-auto' src={Java} alt="HTML icon" />
+                  <p className='my-4'>JAVA</p>
+              </div>
+              <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
+                  <img className='w-[60px] mx-auto' src={Python} alt="HTML icon" />
+                  <p className='my-4'>PYTHON</p>
               </div>
            
               <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
@@ -57,6 +75,15 @@ const Tools = () => {
                   <img className='w-[70px] h-[60px] mx-auto' src={Nextjs} alt="HTML icon" />
                   <p className='my-4'>NEXT.JS</p>
               </div>
+            <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
+                  <img className='w-[60px] mx-auto' src={Postgresql} alt="HTML icon" />
+                  <p className='my-4'>POSTGRESQL</p>
+              </div>
+              <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
+                  <img className='w-[60px] mx-auto' src={Nodejs} alt="HTML icon" />
+                  <p className='my-4'>NODE JS</p>
+              </div>
+            
               <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
                   <img className='w-[60px] mx-auto' src={Vercel} alt="HTML icon" />
                   <p className='my-4'>VERCEL</p>
