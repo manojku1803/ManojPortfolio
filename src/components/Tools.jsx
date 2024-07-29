@@ -39,7 +39,7 @@ const Tools = () => {
                   <p className='my-4'>JAVASCRIPT</p>
               </div>
               <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
-                  <img className='w-[60px] mx-auto' src={Typescript} alt="HTML icon" />
+                  <img className='w-[60px] mx-auto' src={TypeScript} alt="HTML icon" />
                   <p className='my-4'>TYPESCRIPT</p>
               </div>
               <div className='rounded-lg shadow-xl shadow-gray-600 hover:scale-110 hover:shadow-xl duration-500'>
