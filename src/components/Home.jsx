@@ -23,7 +23,7 @@ const Home = () => {
             Manoj Kumar Pradhan.
           </h1>
           <h2 className="text-2xl sm:text-3xl font-bold text-[#8892b0] dark:text-gray-800">
-            I'm a full-stack developer, data scientist & open source
+            I'm a full-stack developer & open source
             contributor.
           </h2>
           <p className="text-[#8892b0] py-4 max-w-[700px] dark:text-gray-700">
