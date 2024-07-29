@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    image: "/images/uniConnect.png",
+    image: "/images/Screenshot 2024-07-29 225917.png",
     alt: "CarePluse — A healthcare patient management application",
     name: "CarePluse — A healthcare patient management application",
     description:
@@ -26,7 +26,7 @@ const data = [
   },
   {
     id: 3,
-    image: "/images/notion clone.jpg",
+    image: "/images/image.png",
     alt: "HelloChat",
     name: "HelloChat",
     description:
