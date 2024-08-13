@@ -2,8 +2,8 @@ const data = [
   {
     id: 1,
     image: "/images/livedocs.png",
-    alt: "Live Docs",
-    name: "Live Docs",
+    alt: "LiveDocs",
+    name: "LiveDocs",
     description: "Developed a Multiple users Documents Management where users can edit the same document simultaneously with real-time updates. Users can add inline and general comments, with threading for discussions and show active collaborators. An improved Google Docs that manages 1 millions + of collaborators in real-time."
     stack: "Node.js, Next.js, TypeScript, Liveblocks, Lexical Editor, ShadCN, Tailwind CSS",
     link: "https://live-docs-mu-six.vercel.app/",
