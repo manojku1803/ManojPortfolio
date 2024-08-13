@@ -13,8 +13,8 @@ const data = [
   {
     id: 2,
     image: "/images/Screenshot 2024-07-29 225917.png",
-    alt: "CarePluse — A healthcare patient management application",
-    name: "CarePluse — A healthcare patient management application",
+    alt: "CarePluse",
+    name: "CarePluse",
     description:
       "Website serving as a centralized platform for Hospital Appointment Booking. Enables patients to can sign up and create a personal profile as a patient, book a New Appointment with Doctor, Admin can Schedule/Cancel Appointment from Admin Side and send SMS on Appointment Confirmation. Managed backend operations and conducting DB operations. Implement Security for secure authentication, and this application works seamlessly on all device types and screen sizes.",
     stack: "Next.js, Appwrite, Typescript, TailwindCSS, Twilio",
