@@ -1,6 +1,17 @@
 const data = [
   {
     id: 1,
+    image: "/images/livedocs.png",
+    alt: "Live Docs",
+    name: "Live Docs",
+    description: "Developed a Multiple users Documents Management where users can edit the same document simultaneously with real-time updates. Users can add inline and general comments, with threading for discussions and show active collaborators. An improved Google Docs that manages 1 millions + of collaborators in real-time."
+    stack: "Node.js, Next.js, TypeScript, Liveblocks, Lexical Editor, ShadCN, Tailwind CSS",
+    link: "https://live-docs-mu-six.vercel.app/",
+    github: "https://github.com/manojku1803/LiveDocs",
+    status: "completed",
+  },
+  {
+    id: 2,
     image: "/images/Screenshot 2024-07-29 225917.png",
     alt: "CarePluse — A healthcare patient management application",
     name: "CarePluse — A healthcare patient management application",
@@ -13,7 +24,7 @@ const data = [
   },
  
   {
-    id: 2,
+    id: 3,
     image: "/images/Screenshot 2024-07-29 225648.png",
     alt: "Mystry Messages",
     name: "Mystry Messages",
@@ -25,7 +36,7 @@ const data = [
     status: "ongoing",
   },
   {
-    id: 3,
+    id: 4,
     image: "/images/image.png",
     alt: "HelloChat",
     name: "HelloChat",
@@ -37,7 +48,7 @@ const data = [
     status: "ongoing",
   },
   {
-    id: 4,
+    id: 5,
     image: "/images/disease.jpg",
     alt: "Cashew Plant Dieases detection",
     name: "Cashew Plant Dieases detection",
